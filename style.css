@@ -1,0 +1,28 @@
+body{
+    background-color: #4b5d67;
+}
+#container{
+    background-color: #322f3d;
+    margin: 0 auto;
+    border: 2px solid white;
+    height: 400px;
+    width: 700px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+#btn{
+    margin: 50px auto;
+    font-size: 25px;
+    background-color: #87556f;
+    border: 1px solid black;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+#output{
+    font-size: 35px;
+}
